@@ -14,7 +14,7 @@ terrain of the field. The central finding is that optimization terms dominate th
 - `visualizations.py` — generates figures used in the paper
 
 ## Data
-The full corpus and analysis outputs are available on OSF: [OSF link]
+Full corpus and analysis outputs will be deposited on OSF upon completion of analysis.
 
 ## Requirements
 ```
