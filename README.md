@@ -1,6 +1,6 @@
-# A Vocabulary of Optimization: Computational Bibliometric Analysis of K-12 Classroom Technology Research
+# What a Research Field Cannot Know: Platform Governance and the Limits of K–12 EdTech Scholarship
 
-This repository contains the analysis code for the study "A Vocabulary of Optimization: Computational Bibliometric Analysis of K-12 Classroom Technology Research," submitted to *Learning, Media and Technology* (2026).
+This repository contains the analysis code for the study "What a Research Field Cannot Know: Platform Governance and the Limits of K–12 EdTech Scholarship," submitted to *Discourse: Studies In The Cultural Politics Of Educationy* (2026).
 
 ## Study Overview
 
@@ -48,7 +48,7 @@ Run scripts in this order:
 
 ## Citation
 
-Bouvier, M. (2026). A Vocabulary of Optimization: Computational Bibliometric Analysis of K-12 Classroom Technology Research. Submitted to *Learning, Media and Technology.*
+Bouvier, M. (2026). What a Research Field Cannot Know: Platform Governance and the Limits of K–12 EdTech Scholarship. Submitted to *Discourse: Studies In The Cultural Politics Of Education.*
 
 ## License
 
